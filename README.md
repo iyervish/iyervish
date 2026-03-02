@@ -4,7 +4,7 @@
 
 # Vishal Iyer
 
-**Founder, [Studio Pimmit](https://www.vishaliyer.com/) · Product Design · Washington D.C.**
+**Founder, [Studio Pimmit](https://www.studiopimmit.com/) · Product Design · Washington D.C.**
 
 </div>
 
@@ -35,7 +35,7 @@ Human-centered systems &nbsp;·&nbsp; AI-powered platforms &nbsp;·&nbsp; Federa
 
 <div align="center">
 
-[Portfolio](https://www.vishaliyer.com/) &nbsp;&nbsp;·&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/iyervish/) &nbsp;&nbsp;·&nbsp;&nbsp; [Studio Pimmit](https://www.vishaliyer.com/)
+[Portfolio](https://www.vishaliyer.com/) &nbsp;&nbsp;·&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/iyervish/) &nbsp;&nbsp;·&nbsp;&nbsp; [Studio Pimmit](https://www.studiopimmit.com/)
 
 <br/>
 
