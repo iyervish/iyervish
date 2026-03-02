@@ -20,10 +20,10 @@ Previously at **Meta** (Reality Labs and Developer Platform) and **18F**, workin
 
 | Project | Domain | Contribution |
 |---|---|---|
-| [Lily AI](https://www.vishaliyer.com/) | AI product design | Shaped the product design direction for an AI-powered retail intelligence platform |
-| [Meta Quest Privacy](https://www.vishaliyer.com/) | Mixed reality | Designed privacy systems for a new computing paradigm |
-| [Login.gov](https://www.vishaliyer.com/) | Federal identity | Led UX for a shared government identity service used by millions |
-| [Meta for Developers](https://www.vishaliyer.com/) | Platform design | Defined the design system and experience for Meta's developer ecosystem |
+| [Lily AI](https://www.vishaliyer.com/case-study/lily-ai) | AI product design | Shaped the product design direction for an AI-powered retail intelligence platform |
+| [Meta Quest Privacy](https://www.vishaliyer.com/case-study/meta-quest-privacy) | Mixed reality | Designed privacy systems for a new computing paradigm |
+| [Login.gov](https://www.vishaliyer.com/case-study/login-gov) | Federal identity | Led UX for a shared government identity service used by millions |
+| [Meta for Developers](https://www.vishaliyer.com/case-study/meta-developer-platform) | Platform design | Defined the design system and experience for Meta's developer ecosystem |
 
 ---
 
